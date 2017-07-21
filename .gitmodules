@@ -1,7 +1,6 @@
 [submodule "top-programming-fonts"]
     path = top-programming-fonts
     url = https://github.com/hbin/top-programming-fonts.git
-    
 [submodule "powerline-fonts"]
-    path = powerline-fonts
-    url = https://github.com/powerline/fonts.git
+	path = powerline-fonts
+	url = https://github.com/powerline/fonts.git
